@@ -1,9 +1,5 @@
-Git Course
+Desafio Codenation
 
-Este é um repositório teste para aprender como o Git funciona!
+Repositorio criado para controle de arquivos relacionados ao Desafio Data science da Codenation. 
 
-Gostou do curso? 
-
-Teste. 
-
-Novo teste 
+Periodo: 09/0/2020 - 18/08/2020
